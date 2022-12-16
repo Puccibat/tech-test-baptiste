@@ -1,0 +1,26 @@
+.stats-section {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 1rem;
+  background-color: #00987a7a;
+  color: #ffffff;
+  border-radius: 5px;
+}
+
+.pieChart {
+  width: 300px;
+  margin-right: 10px;
+}
+
+.stats-section div ul {
+  list-style-type: none;
+}
+
+.stats-section div ul li {
+  margin-top: 8px;
+}
+
+.dataStats {
+  font-weight: 700;
+}
